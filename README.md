@@ -1,6 +1,5 @@
 # MilanoBeB_BasiDati2
-
-Lo scopo di questo progetto è stato la realizzazione di un sistema web-based chenpermettesse di interagire con un database di tipo NoSQL.
+Lo scopo di questo progetto è stato la realizzazione di un sistema web-based che permettesse di interagire con un database di tipo NoSQL.
 
 In particolare, in questo lavoro progettuale è stato utilizzato un database orientato ai documenti, utilizzando il tool MongoDB. In questo lavoro è stato realizzato un sistema che permette l’interazione e la gestione degli AirB&B di Milano.
 
